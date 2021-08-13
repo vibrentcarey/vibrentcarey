@@ -1,8 +1,12 @@
-👋 Hi, I’m Brent Carey 😎
-👀 I’m interested in web and mobile development 💻📱
-🌱 I’m currently learning javascript �🐦
-💞️ I’m looking to collaborate on react projects ⚛️
-📫 How to reach me: email me at brentbcarey@gmail.com 📧
+Hi, I’m Brent Carey 😎
+
+ I’m interested in web and mobile development 💻📱
+
+I’m currently learning javascript🐦
+
+I’m looking to collaborate on react projects ⚛️
+
+How to reach me: email me at brentbcarey@gmail.com 📧
 
 <!---
 vibrentcarey/vibrentcarey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
