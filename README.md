@@ -2,7 +2,7 @@ Hi, I’m Brent Carey 😎
 
  I’m interested in web and mobile development 💻📱
 
-I’m currently learning javascript🐦
+I’m currently learning TypeScript ⌨️
 
 I’m looking to collaborate on react projects ⚛️
 
